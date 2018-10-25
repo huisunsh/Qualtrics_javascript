@@ -1,6 +1,6 @@
 # Qualtrics_javascript
 Examples of adding javascript in Qualtrics
-(Last Updated July 7, 2018)
+(Last Updated October 25, 2018)
 
 ## Ego network Survey
 The file documents a few features that I embedded in Qualtrics during the development of an ego network survey. Qualtrics provide very minimal guidance on how to properly embed Javascript on its platform. The following codes benefit substantially from related questions and solutions provided by users on StackOverflow. Thank you all.
